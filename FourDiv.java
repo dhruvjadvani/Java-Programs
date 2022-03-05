@@ -29,13 +29,13 @@ public class FourDiv {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
         // start coding here
-        int n = scanner.nextInt();  // 8
+        int n = scanner.nextInt();  
         
         int[] input = new int[n];
         
-        for(int i = 0; i < n; i++){// 1 2 3 4 5 6 7 8
-            int m = scanner.nextInt(); // 9 
-            input[i] = m; // 
+        for(int i = 0; i < n; i++){
+            int m = scanner.nextInt(); 
+            input[i] = m;
         }    
         
           
